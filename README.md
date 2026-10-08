@@ -12,4 +12,4 @@ This release contains 98 monitoring-journal observations (33 controls) through 8
 
 Publish only sanitised release files. Never upload raw workbooks, correspondence, private source files or unredacted PDFs. The public CSV uses broad areas and time periods, without personal or health details. Existing Git history requires a separate privacy review.
 
-All seven pages are usable without JavaScript. JavaScript only provides optional log filtering. No third-party libraries, analytics, web fonts, forms or cookies are included.
+All eight pages are usable without JavaScript. JavaScript only provides optional log filtering. No third-party libraries, analytics, web fonts, forms or cookies are included.
