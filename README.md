@@ -8,7 +8,7 @@ Expected URL: https://aveiroodorcase.github.io/aveiro-odor-case/
 No build step or package installation is required. `.nojekyll` is intentional.
 
 ## Evidence and privacy
-This release contains 98 monitoring-journal observations (33 controls) through 8 October 2026. Earlier conversation updates have been reconciled without duplicate rows. IPMA weather values are journal-reported and not independently rechecked; mixed historical forecasts and reconstructed values are withheld. The Navigator letter and agency originals were unavailable; qualified summaries and missing-source statuses are explicit. CIRA filing on 8 October is not confirmed.
+This release contains 98 monitoring-journal observations (33 controls) through 8 October 2026. Earlier conversation updates have been reconciled without duplicate rows. IPMA weather values are journal-reported and not independently rechecked; mixed historical forecasts and reconstructed values are withheld. Reviewed company and agency letters, sent-email screenshots and portal records support the public English extracts. Missing replies and the two distinct SEPNA references are explicitly qualified. CIRA remains planned.
 
 Publish only sanitised release files. Never upload raw workbooks, correspondence, private source files or unredacted PDFs. The public CSV uses broad areas and time periods, without personal or health details. Existing Git history requires a separate privacy review.
 
