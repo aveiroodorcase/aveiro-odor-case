@@ -1,0 +1,43 @@
+id,date,period,area,intensity,observation,source,timing
+W01,2026-08-13,Evening,Azurva,5,Very strong distinctive odour.,Workbook,Approximate
+W02,2026-08-16,Morning,Azurva,5,Very strong distinctive odour.,Workbook,Approximate
+W03,2026-08-17,Morning,Azurva,4,"Burning, waste-like or sewage-like odour.",Workbook,Approximate
+W04,2026-08-21,Morning,Azurva,3,Odour detected again.,Workbook,Approximate
+W05,2026-08-28,Evening,Azurva,5,Very strong outdoor odour.,Workbook,Approximate
+W06,2026-08-29,Evening,Azurva,5,Very strong sewage-like or decomposing-waste odour.,Workbook,Recorded time grouped for privacy
+W07,2026-08-31,Morning,Azurva,4,Strong unpleasant odour.,Workbook,Approximate
+W08,2026-09-01,Morning,Azurva,4,Strong odour.,Workbook,Approximate
+W09,2026-09-02,Morning,Azurva,5,Very strong odour.,Workbook,Approximate
+W10,2026-09-03,Morning,Azurva,2,Background odour resembling burning.,Workbook,Approximate
+W11,2026-09-03,Evening,Azurva,4,Paint-like chemical note alongside the recurring unpleasant odour.,Workbook,Approximate
+W12,2026-09-04,Afternoon,Azurva,5,Burning note followed by the recurring very strong unpleasant odour.,Workbook,Approximate
+W13,2026-09-04,Evening,Azurva,3,Odour returned.,Workbook,Approximate
+W14,2026-09-05,Morning,Azurva,4,Odour persisted.,Workbook,Approximate
+W15,2026-09-05,Afternoon,Azurva,4,A new strong odour was reported.,Workbook,Approximate
+W16,2026-09-06,Morning,Azurva,3,"The same distinctive, recognisable odour.",Workbook,Approximate
+W17,2026-09-07,Morning,Azurva,3,"The same distinctive, recognisable odour.",Workbook,Approximate
+W18,2026-09-07,Evening,Azurva,4,The same odour with a stronger burning component.,Workbook,Approximate
+W19,2026-09-08,Evening,Azurva,4,The same distinctive intense odour.,Workbook,Approximate
+W20,2026-09-09,Morning,Azurva,2,"The same odour, weaker.",Workbook,Approximate
+W21,2026-09-09,Evening,Azurva,4,Strong odour with a pronounced burning-waste-like note.,Workbook,Approximate
+W22,2026-09-12,Evening,Azurva,5,Very strong recurring odour.,Workbook,Approximate
+W23,2026-09-13,Morning,Aveiro area,5,Very strong recurring odour.,Workbook,Approximate
+W24,2026-09-13,Morning,Aveiro area,4,The same recurring odour.,Workbook,Approximate
+W25,2026-09-17,Night,Azurva,3,The same recurring odour.,Workbook,Approximate
+W26,2026-09-17,Morning,Azurva,3,"The same distinctive, recognisable odour.",Workbook,Approximate
+W27,2026-09-17,Evening,Aveiro area,3,The same recurring odour.,Workbook,Approximate
+W28,2026-09-17,Evening,Azurva,4,Strong recurring odour.,Workbook,Approximate
+W29,2026-09-18,Morning,Azurva,3,"The same odour, present since morning.",Workbook,Approximate
+W30,2026-09-18,Afternoon,Azurva,5,Very strong familiar industrial-like or sulphurous odour.,Workbook,Approximate
+W31,2026-09-19,Morning,Azurva,3,Odour detected in the morning.,Workbook,Approximate
+W32,2026-09-20,Evening,Azurva,0,No odour detected.,Workbook,Approximate
+W33,2026-09-20,Evening,Azurva,5,Strong familiar odour returned after an odour-free observation.,Workbook,Recorded time grouped for privacy
+W34,2026-09-21,Morning,Azurva,0,No odour detected.,Workbook,Recorded time grouped for privacy
+U01,2026-10-05,Daytime,Aveiro area,5,Heavy industrial-like odour. Reported as different from the recurring Azurva odour.,Dated conversation record,Time grouped for privacy
+U02,2026-10-05,Daytime,Azurva,5,Very strong recurring distinctive odour. Reported as different from the other Aveiro-area observation that day.,Dated conversation record,Time grouped for privacy
+U03,2026-10-07,Morning,Azurva,1–2 → 3–4,Recurring distinctive odour appeared and subsequently intensified.,Dated conversation record,Time grouped for privacy
+U04,2026-10-07,Evening,Azurva,5,"Very strong recurring odour, still present later in the evening.",Dated conversation record,Time grouped for privacy
+U05,2026-10-08,Night,Azurva,0,No odour detected at a follow-up observation.,Dated conversation record,Time grouped for privacy
+U06,2026-10-08,Morning,Azurva,5,Very strong recurring distinctive odour.,Dated conversation record,Time grouped for privacy
+U07,2026-10-08,Morning,Azurva,0,No odour detected at a later observation.,Dated conversation record,Time grouped for privacy
+U08,2026-10-08,Morning,Azurva,1–2,"Recurring distinctive odour returned, initially weak.",Dated conversation record,Time grouped for privacy
