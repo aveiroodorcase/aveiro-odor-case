@@ -1,15 +1,11 @@
-# Aveiro Odor Case — v5
+# Aveiro Odor Case
 
-English static public dossier of recurring odour observations in Azurva / Aveiro, Portugal.
+English static website with a resident’s story, selected timeline, grouped correspondence and a privacy-preserving weekly odour log.
 
-## Publishing
-In repository Settings → Pages select **Deploy from a branch**, **main**, **/ (root)**, then Save.
-Expected URL: https://aveiroodorcase.github.io/aveiro-odor-case/
-No build step or package installation is required. `.nojekyll` is intentional.
+## Public data
+The only downloadable data file is documents/odour-log.csv. It contains weekly regional summaries, never original journal rows, observation IDs, precise personal times, locations, weather timestamps or private notes. The original Excel and private builders must remain outside this repository.
 
-## Evidence and privacy
-This release contains 98 monitoring-journal observations (33 controls) through 8 October 2026. Earlier conversation updates have been reconciled without duplicate rows. IPMA weather values are journal-reported and not independently rechecked; mixed historical forecasts and reconstructed values are withheld. Reviewed company and agency letters, sent-email screenshots and portal records support the public English extracts. Missing replies and the two distinct SEPNA references are explicitly qualified. The possible CIRA approach is deferred indefinitely; no submission is claimed.
+## Publication
+GitHub Pages uses main and the repository root. No build step is required. All nine pages work without JavaScript. No analytics, third-party fonts, profile images or direct Facebook links are included.
 
-Publish only sanitised release files. Never upload raw workbooks, correspondence, private source files or unredacted PDFs. The public CSV uses broad areas and time periods, without personal or health details. Existing Git history requires a separate privacy review.
-
-All nine pages are usable without JavaScript. JavaScript only provides optional log filtering. No third-party libraries, analytics, web fonts, forms or cookies are included.
+CIRA is deferred indefinitely. A European Commission complaint has not been submitted. No operator is presented as the proved source of all odours.
