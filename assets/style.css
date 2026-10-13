@@ -47,3 +47,12 @@ header,main,footer{max-width:1240px}header{position:relative}.edition span{lette
 .why-section.photo-story-layout{padding:38px 0;margin-bottom:0}
 .why-section.photo-story-layout .site-photo img{height:clamp(300px,31vw,390px)}
 @media(max-width:760px){.photo-story-layout{grid-template-columns:minmax(0,1fr);gap:24px;margin-bottom:30px}.photo-story-layout>.site-photo img{height:auto;aspect-ratio:4/3;object-fit:cover}.why-section.photo-story-layout{padding:30px 0}.why-section.photo-story-layout .site-photo img{height:auto;aspect-ratio:4/3}}
+
+/* Public question, deliberately prominent on the homepage. */
+.public-question{padding:34px 0 40px;margin:14px 0 35px;border-top:4px solid #365b4d;border-bottom:1px solid var(--line);max-width:950px}
+.public-question .eyebrow{color:#47715b}
+.public-question h2{font-family:Georgia,"Times New Roman",serif;font-size:clamp(29px,4.3vw,53px);line-height:1.19;letter-spacing:-1.2px;max-width:900px;margin:12px 0 22px;color:var(--ink)}
+.public-question h2 em{font-style:italic;color:#357357}
+.public-question-followup{font-size:clamp(20px,2.5vw,28px);font-weight:650;line-height:1.42;color:#3b6855}
+.public-question>p:not(.eyebrow){max-width:790px}
+.public-question>a{display:inline-block;font-size:14px;font-weight:650;margin-top:7px}
