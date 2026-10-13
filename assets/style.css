@@ -36,3 +36,14 @@ header,main,footer{max-width:1240px}header{position:relative}.edition span{lette
 .site-photo--field{max-width:520px;margin:20px 0 45px auto}
 .site-photo--field img{height:300px;object-position:center 68%}
 @media(max-width:600px){.site-photo{margin-bottom:26px}.site-photo--hero img{height:390px}.site-photo--nature,.site-photo--field{max-width:100%}.site-photo--nature img{height:420px}.site-photo--field img{height:270px}}
+
+/* Keep the resident's photographs alongside the story they illustrate. */
+.photo-story-layout{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:clamp(28px,4vw,64px);align-items:start;margin:0 0 38px}
+.photo-story-layout>.photo-story-copy{min-width:0;max-width:none}
+.photo-story-layout>.site-photo{width:100%;max-width:none;margin:0;align-self:start}
+.photo-story-layout>.site-photo img{height:clamp(300px,35vw,450px);object-fit:cover}
+.photo-story-layout .photo-story-copy>section:first-child{border-top:0;padding-top:0}
+.photo-story-layout .photo-story-copy>p:first-child{margin-top:0}
+.why-section.photo-story-layout{padding:38px 0;margin-bottom:0}
+.why-section.photo-story-layout .site-photo img{height:clamp(300px,31vw,390px)}
+@media(max-width:760px){.photo-story-layout{grid-template-columns:minmax(0,1fr);gap:24px;margin-bottom:30px}.photo-story-layout>.site-photo img{height:auto;aspect-ratio:4/3;object-fit:cover}.why-section.photo-story-layout{padding:30px 0}.why-section.photo-story-layout .site-photo img{height:auto;aspect-ratio:4/3}}
