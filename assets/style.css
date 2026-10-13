@@ -24,3 +24,15 @@ header,main,footer{max-width:1240px}header{position:relative}.edition span{lette
 /* CCDR's statement deserves to be immediately visible, without legal jargon. */
 .action-record>p.ccdr-finding{display:block;margin:20px 0;padding:17px 20px;background:#e3eadd;border-left:4px solid #638674;color:#244a3a;font-size:18px;line-height:1.55;max-width:850px}
 .action-record>p.ccdr-finding strong{font-weight:750}
+
+/* Real photographs supplied by the resident; these figures hide themselves until image assets are uploaded. */
+.site-photo{margin:8px 0 34px;overflow:hidden;max-width:850px}
+.site-photo img{display:block;width:100%;height:100%;object-fit:cover}
+.site-photo figcaption{font-size:12px;color:var(--muted);padding:9px 0 0;letter-spacing:.15px}
+.site-photo--hero{max-width:850px}
+.site-photo--hero img{height:390px;object-position:center 68%}
+.site-photo--nature{max-width:520px;margin:0 0 28px auto}
+.site-photo--nature img{height:450px;object-position:center 58%}
+.site-photo--field{max-width:520px;margin:20px 0 45px auto}
+.site-photo--field img{height:300px;object-position:center 68%}
+@media(max-width:600px){.site-photo{margin-bottom:26px}.site-photo--hero img{height:390px}.site-photo--nature,.site-photo--field{max-width:100%}.site-photo--nature img{height:420px}.site-photo--field img{height:270px}}
