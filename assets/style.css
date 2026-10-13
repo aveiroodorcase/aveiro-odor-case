@@ -20,3 +20,7 @@ header,main,footer{max-width:1240px}header{position:relative}.edition span{lette
 /* Short, readable result at the end of each official-action entry. */
 .action-record>p.action-outcome{margin:20px 0 12px;padding-left:13px;border-left:3px solid #769989;color:#264e40;font-size:15px;line-height:1.6;max-width:850px}
 .action-record>p.action-outcome strong{font-weight:700}
+
+/* CCDR's statement deserves to be immediately visible, without legal jargon. */
+.action-record>p.ccdr-finding{display:block;margin:20px 0;padding:17px 20px;background:#e3eadd;border-left:4px solid #638674;color:#244a3a;font-size:18px;line-height:1.55;max-width:850px}
+.action-record>p.ccdr-finding strong{font-weight:750}
