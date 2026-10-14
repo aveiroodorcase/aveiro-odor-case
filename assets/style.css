@@ -179,3 +179,10 @@ footer p{color:var(--muted)}
  .story-copy{font-size:16px}
 }
 @media print{.quick-links,.mobile-menu{display:none}.why-mock-card{border:1px solid #ccc;background:#fff}}
+
+/* A quiet, personal reflection between the story and the public questions. */
+.newcomer-note{max-width:910px;margin:8px 0 38px;padding:27px 34px;background:#edf7f6;border-left:3px solid #78b6b0;border-radius:0 14px 14px 0}
+.newcomer-note h2{font-size:clamp(25px,3vw,34px);margin:0 0 14px}
+.newcomer-note p{max-width:780px;color:#50677a;font-size:16px;line-height:1.75;margin:0 0 13px}
+.newcomer-note p:last-child{margin-bottom:0}
+@media(max-width:600px){.newcomer-note{padding:23px 21px;margin:8px 0 32px}.newcomer-note p{font-size:15px}}
