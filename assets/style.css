@@ -200,3 +200,15 @@ footer p{color:var(--muted)}
 .historic-linkline{font-size:14px;color:var(--muted);margin:5px 0 17px}.historic-linkline a{font-weight:700}
 .historical-evidence{border-top:1px solid var(--line);margin:52px 0 20px;padding:28px 0}.historical-evidence>p{max-width:860px;color:var(--muted)}.historical-evidence h2{max-width:870px}.history-records{max-width:960px;margin:32px 0 18px}.history-records article{display:grid;grid-template-columns:165px minmax(0,1fr);gap:28px;border-top:1px solid var(--line);padding:24px 0}.history-year{font:700 19px/1.35 Georgia,serif;color:var(--teal)}.history-year span{display:block;font:11px/1.5 system-ui,sans-serif;color:var(--muted);margin-top:6px}.history-records h3,.community-links h3{font-family:Georgia,serif;font-size:21px;margin:0 0 9px}.history-records p,.community-links p{font-size:15px;color:var(--muted);margin:0 0 10px}.history-records a,.community-links a{font-size:14px;font-weight:650}.evidence-caveat{font-size:13px;background:#edf7f6;padding:18px 20px;border-radius:12px}.community-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:28px 0 30px}.community-links article{background:#f0f8f7;border:1px solid var(--line);border-radius:13px;padding:20px}.community-links h3{font-size:19px}
 @media(max-width:640px){.history-records article{grid-template-columns:1fr;gap:10px;padding:21px 0}.community-links{grid-template-columns:1fr}.hero-standfirst{font-size:21px!important}}
+
+/* Clear, prominent historical entry point; simpler source reading on mobile. */
+.history-feature{margin:18px 0 30px;padding:27px 30px;background:#eaf6f4;border:1px solid #cee7e1;border-radius:16px;max-width:920px}
+.history-feature .eyebrow{margin:0 0 8px;font-size:11px}
+.history-feature h2{font-size:clamp(23px,3.2vw,34px);margin:0 0 12px}
+.history-feature>p:not(.eyebrow){max-width:740px;color:var(--muted);font-size:16px;margin:0 0 16px}
+.history-feature-link{display:block;font-size:17px;color:#176e68;text-decoration:underline;text-underline-offset:4px}
+.history-feature-secondary{display:block;margin-top:11px;font-size:14px}
+.social-history-shortcut{display:inline-block;background:#eaf6f4;border-radius:9px;padding:13px 18px}
+#historical-record{margin:24px 0 46px;padding-top:22px;border-top:0}
+#community-discussions h3{margin-top:22px}
+@media(max-width:640px){.history-feature{padding:21px 20px;margin:13px 0 25px}.history-feature>p:not(.eyebrow){font-size:15px}.history-feature-link{font-size:16px}}
