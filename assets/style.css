@@ -186,3 +186,11 @@ footer p{color:var(--muted)}
 .newcomer-note p{max-width:780px;color:#50677a;font-size:16px;line-height:1.75;margin:0 0 13px}
 .newcomer-note p:last-child{margin-bottom:0}
 @media(max-width:600px){.newcomer-note{padding:23px 21px;margin:8px 0 32px}.newcomer-note p{font-size:15px}}
+
+/* Quiet statement about equitable access to environmental protection. */
+.access-note{max-width:910px;margin:0 0 35px;padding:28px 0 26px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.access-note h2{font-size:clamp(25px,3vw,35px);margin:0 0 14px}
+.access-note p{max-width:800px;color:var(--muted);font-size:16px;line-height:1.75;margin:0 0 13px}
+.access-note strong{color:var(--ink);font-weight:700}
+.access-note .access-note-source{font:12px/1.6 system-ui,-apple-system,sans-serif;color:#667986;margin-top:17px}
+@media(max-width:600px){.access-note{padding:21px 0}.access-note p{font-size:15px}}
