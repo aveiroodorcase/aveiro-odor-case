@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /aveiro-odor-case/
+
+Sitemap: https://aveiroodorcase.github.io/aveiro-odor-case/sitemap.xml
