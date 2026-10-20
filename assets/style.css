@@ -212,3 +212,8 @@ footer p{color:var(--muted)}
 #historical-record{margin:24px 0 46px;padding-top:22px;border-top:0}
 #community-discussions h3{margin-top:22px}
 @media(max-width:640px){.history-feature{padding:21px 20px;margin:13px 0 25px}.history-feature>p:not(.eyebrow){font-size:15px}.history-feature-link{font-size:16px}}
+
+/* Highlight the resident reporting guide in both navigation layouts. */
+.desktop-nav a.report-nav-link,.mobile-menu nav a.report-nav-link{display:inline-block;background:#245f59;color:#fff!important;border-radius:6px;padding:9px 12px;font-weight:700;text-decoration:none;white-space:normal}
+.desktop-nav a.report-nav-link:hover,.mobile-menu nav a.report-nav-link:hover{background:#184741;color:#fff!important}
+.mobile-menu nav a.report-nav-link{align-self:center;text-align:center;margin:4px 0}
